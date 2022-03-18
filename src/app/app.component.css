@@ -1,0 +1,19 @@
+.selected {
+    font-weight: bold;
+    font-weight: 900;
+    color: black;
+}
+
+.navbar-expand-lg {
+    background-color: #e3f2fd;
+}
+
+.navbar-brand {
+    margin-left: 20px;
+    color: black;
+    padding: 5px;
+}
+
+.nav-link {
+    color: black;
+}
