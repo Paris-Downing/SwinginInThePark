@@ -13,12 +13,6 @@ export class AppComponent {
 
   enableDisableRule(data: number) {
     switch (data) {
-      case 1: 
-        this.toggle1 = true;
-        this.toggle2 = false;
-        this.toggle3 = false;
-        this.toggle4 = false;
-        break;
       case 2: 
         this.toggle1 = false;
         this.toggle2 = true;
